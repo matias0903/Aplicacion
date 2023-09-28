@@ -35,6 +35,6 @@ private RecyclerView recyclerViewCategoryList;
 
         adapter = new CategoryAdaptor(category);
         recyclerViewCategoryList.setAdapter(adapter);
-        //jaja///
+        //jaja//
     }
 }
